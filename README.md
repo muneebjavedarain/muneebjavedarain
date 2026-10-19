@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Muneeb Javed 👋
 
-<!--
-**muneebjavedarain/muneebjavedarain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSIT Student | AI Developer | Software Engineer in Progress
 
-Here are some ideas to get you started:
+I'm a 7th-semester BS Information Technology student at the University of Sargodha, Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in Artificial Intelligence, multi-agent systems, web development, and software engineering.
+
+### 🚀 Featured Projects
+
+- **CRAFT AI Tutor:** A multi-agent C++ tutoring system with RAG and Docker sandboxing.
+- **Smart AI Assistant:** An AI-powered web application built with Flask.
+- **University Portal:** A student management system using PHP and MySQL.
+
+### 🛠️ Technologies & Tools
+
+- Languages: C++, Python, JavaScript, PHP
+- Web Development: HTML, CSS, Flask, Express.js
+- AI & LLMs: RAG, Multi-Agent Systems, Prompt Engineering
+- Databases: MySQL, ChromaDB
+- Tools: Git, GitHub, Docker, VS Code
+
+### 🎯 Current Goals
+
+- Improve my AI and software engineering skills.
+- Build practical AI-powered applications.
+- Explore research opportunities for a Master's degree.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: YOUR_EMAIL
+
+---
+
+*Learning, building, and improving one project at a time.*
