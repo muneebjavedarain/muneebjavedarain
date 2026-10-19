@@ -28,8 +28,8 @@ I'm interested in Artificial Intelligence, multi-agent systems, web development,
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/muneebjavedarain
+- Email: muneebjaved0705@gmail.com
 
 ---
 
